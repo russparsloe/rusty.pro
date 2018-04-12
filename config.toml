@@ -1,3 +1,21 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "http://rusty.pro/"
+languageCode = "en-gb"
+title = "Rusty.Pro"
+
+theme = "kiss"
+disqusShortname = "rusty-pro"
+
+[permalinks]
+  post = "/:slug/"
+
+[taxonomies]
+  tag ="tags"
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[params.social]
+  twitter = "_rustypro"
+  github = "russparsloe"
+  email = "hello@rusty.pro"
+  linkedin = "russparsloe"
