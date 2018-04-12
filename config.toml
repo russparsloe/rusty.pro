@@ -9,7 +9,7 @@ disqusShortname = "rusty-pro"
   post = "/:slug/"
 
 [taxonomies]
-  tag ="tags"
+  tag = "tags"
 
 [blackfriday]
   hrefTargetBlank = true
