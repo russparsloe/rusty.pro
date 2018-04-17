@@ -14,6 +14,9 @@ disqusShortname = "rusty-pro"
 [blackfriday]
   hrefTargetBlank = true
 
+[params.info]
+  homeTitle = "Rusty.Pro ⇒ (noun) - an out of practice sysadmin"
+
 [params.social]
   twitter = "_rustypro"
   github = "russparsloe"
