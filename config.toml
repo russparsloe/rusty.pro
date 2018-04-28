@@ -4,6 +4,7 @@ title = "Rusty.Pro"
 
 theme = "kiss"
 disqusShortname = "rusty-pro"
+Paginate = 5
 
 [permalinks]
   post = "/:slug/"
