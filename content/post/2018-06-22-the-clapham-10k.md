@@ -15,3 +15,5 @@ I've run 10k only once before in my life, at the Derby 10k back in April 2011. M
 To get to this level I need to be disciplined and train regularly. At a minimum I need to run twice a week. With Parkrun on Saturdays fulfilling one of those runs, I will also run once or twice during the week, especially as I not only need to increase my speed, but also to run longer distances. This is likely to mean waking up early when I can, putting my trainers on and heading out there while the rest of London sleeps!
 
 I'm really looking forward to this. It's going to be a great event I'm sure and gives me a specific goal with a defined end date I can really push for!
+
+**Signup link** - If you'd like to join us and get £5 off, [visit this page](https://endurancecui.active.com/event-reg/select-race?e=53718152&rc=X-1VD2DKKT&rf=dedcdef2054b4965aafa79a6b7de485b "Clapham 10k signup page")
