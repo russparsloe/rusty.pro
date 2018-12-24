@@ -18,6 +18,9 @@ Paginate = 5
 [params.info]
   homeTitle = "Rusty.Pro ⇒ (noun) - an out of practice sysadmin"
 
+[params.features]
+  disqusOnDemand = true
+
 [params.social]
   twitter = "_rustypro"
   github = "russparsloe"
