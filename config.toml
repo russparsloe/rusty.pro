@@ -21,5 +21,8 @@ Paginate = 5
 [params.social]
   twitter = "_rustypro"
   github = "russparsloe"
-  email = "hello@rusty.pro"
   linkedin = "russparsloe"
+  email = "hello@rusty.pro"
+
+[params.social.config]
+  platforms = [ "twitter", "github", "linkedin", "email" ]
