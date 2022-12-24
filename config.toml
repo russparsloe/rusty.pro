@@ -12,6 +12,7 @@ Paginate = 5
   tag = "tags"
 
 [params]
+  contentTypeName = "posts"
   showReadingTime = true
   rssFullText = true
   defaultTheme = "dark"
