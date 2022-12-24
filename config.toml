@@ -6,7 +6,7 @@ theme = "hello-friend"
 Paginate = 5
 
 [permalinks]
-  posts = "/:slug/"
+  posts = "/:year/:slug/"
 
 [taxonomies]
   tag = "tags"
