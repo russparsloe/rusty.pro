@@ -5,8 +5,8 @@ title = "Rusty.Pro"
 theme = "hello-friend"
 Paginate = 5
 
-#[permalinks]
-#  posts = "/:slug/"
+[permalinks]
+  posts = "/:slug/"
 
 [taxonomies]
   tag = "tags"
