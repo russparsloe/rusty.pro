@@ -1,10 +1,10 @@
 ---
 title: "Rusty.Pro - or how I host a robust, cutting edge website for just $2"
 date: 2018-04-12T21:29:01+01:00
-draft: false
-tags: [ website, hugo, namecheap, netlify, mailgun ]
+tags: [website, hugo, namecheap, netlify, mailgun]
 slug: "rusty-pro"
 ---
+
 Welcome to my tiny corner of the web! I've wanted a place to put my learnings online for a good while, and with time on my hands to finally do it, this is the outcome. <!--more-->
 
 I haven't had a website for over a decade, and so with a blank slate I looked at the current options available. I've used [Wordpress](https://wordpress.org) in the past with it's famous 5 minute install. Although it's a great platform, it feels a little "heavy" for a tiny site like mine. Managing version updates, plugins, and a database would add management overhead that I just don't have time for. Also Wordpress is a dynamic site, meaning content has to be pulled from the database and generated on the fly for every page view, which creates a performance hit. There are some mitigation strategies such as using caching plugins, but this is yet another thing to manage.

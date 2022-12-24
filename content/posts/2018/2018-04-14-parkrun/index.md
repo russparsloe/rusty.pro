@@ -1,17 +1,20 @@
 ---
 title: "Parkrun"
 date: 2018-04-14T23:54:27+01:00
-tags: [ "exercise", "running" ]
+tags: ["exercise", "running"]
+cover: 2018-04-14-parkrun.jpg
+coverAlt: People running at Parkrun
+coverCaption: Parkrun is a free timed 5k run every Saturday
+useRelativeCover: true
 ---
-![People running at parkrun](/img/2018-04-14-parkrun.jpg#c "Parkrun is a free timed 5k run every Saturday")
 
 This morning I headed over to Markeaton Park, and joined 372 other people to take part in one of many Parkruns taking place around the country. <!--more-->
 
 To quote the [Parkrun](http://www.parkrun.org.uk/ "Free, weekly, 5km timed runs around the world") website:
 
-> parkrun organise free, weekly, 5km timed runs around the world. They are open to everyone, free, and are safe and easy to take part in. 
+> parkrun organise free, weekly, 5km timed runs around the world. They are open to everyone, free, and are safe and easy to take part in.
 
-![parkrun locations across the UK](/img/2018-04-14-parkrun-2.png#r "Parkrun locations across the UK")
+{{< figure src="2018-04-14-parkrun-2.png" alt="Parkrun locations across the UK" position="center" caption="Parkrun locations across the UK" style="border-radius: 10px;" >}}
 
 As you can see from the map in the image, there are hundreds of locations where you can take part in a fun 5k run every week. The process is very simple and best of all, it's free:
 
