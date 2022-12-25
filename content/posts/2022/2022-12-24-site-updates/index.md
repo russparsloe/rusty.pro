@@ -6,7 +6,7 @@ tags: ["website"]
 
 It's been a long time since I updated this site! Almost exactly 4 years in fact. I wasn't totally happy with how the site looked which lead to a bizarre case of not really wanting to update it at all. I've finally had a little downtime to perform some updates and I'm much happier! Here's what I changed... <!--more-->
 
-The most obvious change is that I've updated the theme of this blog to use [hello-friend](https://github.com/panr/hugo-theme-hello-friend) by [panr](https://twitter.com/panr). I think it's a really clean theme and has support for light and dark modes (you can toggle them with the button in the top right corner).
+The most obvious change is that I've updated the theme of this blog to use [hello-friend](https://github.com/panr/hugo-theme-hello-friend) by [panr](https://twitter.com/panr). I think it's a really clean theme and has support for light and dark modes (you can toggle between them with the button in the top right corner).
 
 I've added a blank [About Me](/about/) page that I will look to fill in at some point with, unsurprisingly, more details about me.
 
