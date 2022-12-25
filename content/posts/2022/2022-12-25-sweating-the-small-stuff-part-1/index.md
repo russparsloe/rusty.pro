@@ -14,7 +14,7 @@ There are a few things I would like to change to take care of that final 5%. Her
 
 ## Post Excerpts
 
-The first is how excerpts for posts are created on list pages. The [code](https://github.com/panr/hugo-theme-hello-friend/blob/95a746521aa4b445dd0a6dfd9750e8e04fbeff6a/layouts/_default/list.html#L41-L56) used for this is:
+The first is how excerpts for posts are created on list pages. The [code](https://github.com/panr/hugo-theme-hello-friend/blob/95a746521aa4b445dd0a6dfd9750e8e04fbeff6a/layouts/_default/list.html#L41-L49) used for this is:
 
 ```go
 <div class="post-content">
@@ -63,7 +63,7 @@ Right next to the code I modified above is another change I'd like to make. The 
 
 However for really short posts that are not truncated, there is no need for the button to appear as there is nothing more to read!
 
-Let see how to fix this. The original code to display the `Read More` button looks like this.
+Let see how to fix this. The original [code](https://github.com/panr/hugo-theme-hello-friend/blob/95a746521aa4b445dd0a6dfd9750e8e04fbeff6a/layouts/_default/list.html#L50-L56) to display the `Read More` button looks like this.
 
 ```go
 {{ if not .Params.hideReadMore }}
