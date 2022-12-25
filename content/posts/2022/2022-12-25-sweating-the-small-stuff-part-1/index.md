@@ -10,7 +10,7 @@ useRelativeCover: true
 
 I am much more enthusiastic about this site since the theme change! I would say it satisfies about 95% of what I would have created myself had I the skills to do so!
 
-There are a few things I would like to change to take care of that final 5%. Here is how I tackled a couple of them.<!--more-->
+There are a few things I would like to change to take care of that final 5%. Here's how I tackled a couple of them.<!--more-->
 
 ## Post Excerpts
 
