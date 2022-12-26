@@ -8,13 +8,13 @@ coverCaption: Having an easily repeatable pattern removes friction from a task
 useRelativeCover: true
 ---
 
-One of the reasons I feel have failed to blog at all over the past 4 years is that the barrier to entry was way too high. Rather than focusing on writing content, I would spend lots of time trying to remember how to use the tools and give up. Some of this friction can be removed with a handy Hugo feature called Archetypes.<!--more-->
+One of the reasons I feel have failed to blog at all over the past 4 years is that the barrier to entry was too high. Rather than focusing on writing content, I would spend lots of time trying to remember how to use the tools, get frustrated, and give up. Some of this friction can be removed with a handy Hugo feature called Archetypes.<!--more-->
 
-There are many pages that describe the benefits and how to use archetypes so I won't try to cover them again here. One page I found really useful to understand how they worked was written by [Bruce Wray on CloudCannon](https://cloudcannon.com/blog/maximizing-the-convenience-factor-archetypes-in-hugo/).
+There are many pages that describe the benefits and how to use archetypes so I won't try to cover them again here. One page that I found that really helped me to understand how they worked was written by [Bruce Wray on CloudCannon](https://cloudcannon.com/blog/maximizing-the-convenience-factor-archetypes-in-hugo/).
 
 By creating an archetype, it makes it easier and faster for me to get the outline of a post ready to go, and then I can focus more of my time on writing the actual content.
 
-Some of the things I needed to consider when creating my archetype were:
+A couple of things I needed to be mindful of when creating my archetype were:
 
 - I am using [Leaf Bundles](https://gohugo.io/content-management/page-bundles/#leaf-bundles) for my pages
 - My folder/file naming structure uses the format `posts/yyyy/yyyy-MM-dd-page-title`, whereas the title should appear using the format `Page Title`
