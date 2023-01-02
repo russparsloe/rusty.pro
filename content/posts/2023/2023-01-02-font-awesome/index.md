@@ -8,7 +8,7 @@ coverCaption: The clue is in the name!
 useRelativeCover: true
 ---
 
-While in the procoess of writing my (currently unpublished) [About](/about/) page, one of the things I wanted to add were icons for the links to my various social media profiles. I could add these as images, but I figured it might be cool to add [Font Awesome](https://fontawesome.com) to the blog. Turns out it's actually very simple to do...<!--more-->
+While in the process of writing my (currently unpublished) [About](/about/) page, one of the things I wanted to add were icons for the links to my various social media profiles. I could add these as images, but I figured it might be cool to add [Font Awesome](https://fontawesome.com) to the blog. Turns out it's actually very simple to do...<!--more-->
 
 A quick online search led me to a few articles on how to do this. The implementation I favoured was from Michael Ryan on [Something Strange](https://somethingstrange.com/posts/hugo-with-fontawesome/) as it doesn't modify the theme files directly, and has support for colours, sizes and opacity.
 
