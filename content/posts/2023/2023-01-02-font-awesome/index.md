@@ -6,7 +6,6 @@ cover: 2023-01-02-font-awesome.png
 coverAlt: Font Awesome Icons
 coverCaption: The clue is in the name!
 useRelativeCover: true
-draft: true
 ---
 
 While in the procoess of writing my (currently unpublished) [About](/about/) page, one of the things I wanted to add were icons for the links to my various social media profiles. I could add these as images, but I figured it might be cool to add [Font Awesome](https://fontawesome.com) to the blog. Turns out it's actually very simple to do...<!--more-->
