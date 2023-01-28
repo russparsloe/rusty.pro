@@ -1,7 +1,7 @@
 ---
 title: Verification on Mastodon
 date: 2023-01-28T17:11:36Z
-tags: [ "hugo", "website" ]
+tags: [ "mastodon", "website" ]
 cover: 2023-01-28-verification-on-mastodon.jpg
 coverAlt: Two mobile phones showing the Mastodon website
 coverCaption: Mastodon is a free, open-source decentralized social media platform with nice people
