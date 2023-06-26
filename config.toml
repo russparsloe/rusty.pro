@@ -18,7 +18,7 @@ Paginate = 5
   defaultTheme = "dark"
 
 [languages]
-  [languages.en]
+  [languages.en.params]
     title = "Rusty.Pro"
     subtitle = "(noun) - an out of practice sysadmin"
     dateFormatSingle = "02 January 2006"
