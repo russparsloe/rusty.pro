@@ -6,7 +6,6 @@ cover: 2023-06-30-publishing-new-posts-to-mastodon.jpg
 coverAlt: A clipboard with a bullet list of tasks to publish a blog post next to a MacBook
 coverCaption: Automation can help reduce the friction when publishing a new post
 useRelativeCover: true
-draft: true
 ---
 
 An thought struck me when browsing Mastodon yesterday - how can I automate the posting of a link to my new blog posts on my Mastodon account? While this took me on something of a journey to find what options exist, the actual solution I landed upon is very straightforward.<!--more-->
