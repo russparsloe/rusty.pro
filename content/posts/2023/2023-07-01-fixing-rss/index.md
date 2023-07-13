@@ -6,7 +6,6 @@ cover: 2023-07-01-fixing-rss.jpg
 coverAlt: Blue and red linked paper clips with one link broken
 coverCaption: Fixing broken links in my RSS feed
 useRelativeCover: true
-draft: true
 ---
 
 One of the unintended effects of [automating the posting of blog post links](/2023/publishing-new-posts-to-mastodon) to Mastodon has led to the fix of a long standing issue I had with my RSS feed. As seems to be a recurring theme with running this blog, the fix was very simple, taught me more about the way Hugo works, and has delivered other benefits too.<!--more-->
