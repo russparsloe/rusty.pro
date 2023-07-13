@@ -6,7 +6,6 @@ cover: {{ .Name }}.jpg
 coverAlt: Cover Alt Text
 coverCaption: Cover Caption
 useRelativeCover: true
-draft: true
 ---
 
 ---
