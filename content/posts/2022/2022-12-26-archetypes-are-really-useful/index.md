@@ -2,7 +2,7 @@
 title: Archetypes Are Really Useful
 date: 2022-12-26T10:04:00Z
 tags: ["hugo", "website"]
-cover: 2022-12-26-archetypes-are-really-useful.jpg
+cover: 2022-12-26-archetypes-are-really-useful.webp
 coverAlt: Person Using a Cookie Cutter
 coverCaption: Having an easily repeatable pattern removes friction from a task
 useRelativeCover: true
@@ -30,7 +30,7 @@ As I post more, I'll learn what I need (and what I don't) in my archetype but he
 title: {{ slicestr .Name 11 | humanize | title }}
 date: {{ .Date }}
 tags: [ "hugo", "website" ]
-cover: {{ .Name }}.jpg
+cover: {{ .Name }}.webp
 coverAlt: Cover Alt Text
 coverCaption: Cover Caption
 useRelativeCover: true
@@ -53,7 +53,7 @@ This resulted in this ready to edit file being created with most of the boilerpl
 title: Archetypes Are Really Useful
 date: 2022-12-26T10:04:00Z
 tags: ["hugo", "website"]
-cover: 2022-12-26-archetypes-are-really-useful.jpg
+cover: 2022-12-26-archetypes-are-really-useful.webp
 coverAlt: Cover Alt Text
 coverCaption: Cover Caption
 useRelativeCover: true

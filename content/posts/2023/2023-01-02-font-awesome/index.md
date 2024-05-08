@@ -2,7 +2,7 @@
 title: Font Awesome
 date: 2023-01-02T11:03:13Z
 tags: ["hugo", "website"]
-cover: 2023-01-02-font-awesome.png
+cover: 2023-01-02-font-awesome.webp
 coverAlt: Font Awesome Icons
 coverCaption: The clue is in the name!
 useRelativeCover: true

@@ -2,7 +2,7 @@
 title: Publishing New Posts to Mastodon
 date: 2023-06-30T18:14:19+01:00
 tags: [ "hugo", "website", "mastodon" ]
-cover: 2023-06-30-publishing-new-posts-to-mastodon.jpg
+cover: 2023-06-30-publishing-new-posts-to-mastodon.webp
 coverAlt: A clipboard with a bullet list of tasks to publish a blog post next to a MacBook
 coverCaption: Automation can help reduce the friction when publishing a new post
 useRelativeCover: true

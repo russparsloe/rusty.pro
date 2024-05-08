@@ -2,7 +2,7 @@
 title: Fixing RSS
 date: 2023-07-01T17:36:22+01:00
 tags: [ "hugo", "rss", "website" ]
-cover: 2023-07-01-fixing-rss.jpg
+cover: 2023-07-01-fixing-rss.webp
 coverAlt: Blue and red linked paper clips with one link broken
 coverCaption: Fixing broken links in my RSS feed
 useRelativeCover: true

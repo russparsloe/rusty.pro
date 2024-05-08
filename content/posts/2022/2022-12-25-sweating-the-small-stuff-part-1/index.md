@@ -2,7 +2,7 @@
 title: "Sweating the Small Stuff - Part 1"
 date: 2022-12-25T17:55:47Z
 tags: ["website"]
-cover: 2022-12-25-sweating-the-small-stuff-part-1.jpg
+cover: 2022-12-25-sweating-the-small-stuff-part-1.webp
 coverAlt: A sign saying sweat
 coverCaption: Sweating the small stuff makes all the difference
 useRelativeCover: true

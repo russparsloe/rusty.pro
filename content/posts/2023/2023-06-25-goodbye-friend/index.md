@@ -2,7 +2,7 @@
 title: Goodbye Friend
 date: 2023-06-25T20:37:46+01:00
 tags: [ "hugo", "website" ]
-cover: 2023-06-25-goodbye-friend.jpg
+cover: 2023-06-25-goodbye-friend.webp
 coverAlt: A cinema light box showing the words "Goodbye Friends"
 coverCaption: Is this goodbye?
 useRelativeCover: true

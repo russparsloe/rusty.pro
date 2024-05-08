@@ -2,7 +2,7 @@
 title: GoatCounter
 date: 2023-01-02T14:59:28Z
 tags: [ "hugo", "website" ]
-cover: 2023-01-02-goatcounter.png
+cover: 2023-01-02-goatcounter.webp
 coverAlt: A sample of analytics from GoatCounter
 coverCaption: GoatCounter is an open source privacy-friendly web analytics platform
 useRelativeCover: true

@@ -2,7 +2,7 @@
 title: "Parkrun PB"
 date: 2018-04-22T21:54:03+01:00
 tags: ["parkrun", "running", "exercise"]
-cover: 2018-04-22-parkrun-pb.png
+cover: 2018-04-22-parkrun-pb.webp
 coverAlt: Map of Parkrun - Hampstead Heath
 coverCaption: Map of my Parkrun on Hampstead Heath
 useRelativeCover: true
