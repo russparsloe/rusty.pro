@@ -3,7 +3,9 @@ languageCode = "en-gb"
 title = "Rusty.Pro"
 
 theme = "hello-friend"
-Paginate = 5
+
+[pagination]
+  pagerSize = 5
 
 [permalinks]
   posts = "/:year/:slug/"
